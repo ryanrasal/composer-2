@@ -1,0 +1,15 @@
+{
+    "name": "quete/php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ryanrasal",
+            "email": "ryan.beaujot@outlook.fr"
+        }
+    ],
+    "require": {}
+}
